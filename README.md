@@ -1,0 +1,1 @@
+The Purpose of this project is to hone skills with HTML and create a bare bones recipe website in order to practice them. Tags used will include but not be limited to: links, images, paragraphs, headers, etc.
